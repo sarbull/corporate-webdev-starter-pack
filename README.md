@@ -1,4 +1,4 @@
-# webdev-starter-pack
+# corporate-webdev-starter-pack
 
 ## Development installables
 - Git and Git Bash ([link](https://git-scm.com/download/win))
